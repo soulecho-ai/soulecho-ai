@@ -55,7 +55,7 @@ Python • SQL • Git • GitHub • AWS • Pandas • NumPy • Scikit-Learn 
 
 📧 Email: sharmarishabh1024@gmail.com
 
-💼 LinkedIn: *(Add after updating profile)*
+💼 LinkedIn: www.linkedin.com/in/rishabh-raj-sharma-42ab0a393
 
 📊 Kaggle: *(Add after updating profile)*
 
